@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HillBillly
-- 👀 I’m interested in building cool stuff.....projects on the go vision guided robotic arm, small scale magnetic bearing, freeze dryer, 3m jet boat, kite board foil, electric powered SUP.
-- 🌱 I’m currently learning ...python (openCV, OPC UA client server), Arduino C, some C# for autoCAD plant 3D.
-- 💞️ I’m looking to collaborate on ...anything relevant to a cool project but specifically vision guided robotic arm, small scale magnetic bearing, freeze dryer, 3m jet boat, kite board foil, electric powered SUP.
+- 👀 I’m interested in building challenging things.....projects on the go vision guided robotic arm, small scale magnetic bearing, 3m HDPE jet boat, motion simulator 6dof steward platform........ .
+- 🌱 I’m currently learning ...python, (django, html, css, javascript), some c where needed.
+- 💞️ I’m looking to collaborate out on things, but only just passed beginner stage on programming.
 - 📫 How to reach me ... I'll hold back email already backedup & much skiing/kiting to be done :). 
 
 <!---
